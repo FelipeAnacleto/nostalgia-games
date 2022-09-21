@@ -1,7 +1,7 @@
 {
   "name": "web",
   "private": true,
-  "homepage": "https://felipeanacleto.github.io/",
+  "homepage": "https://felipeanacleto.github.io/nostalgia-games/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
