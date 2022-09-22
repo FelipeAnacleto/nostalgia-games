@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "predeploy": "npm run dev",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d dev",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
